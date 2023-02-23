@@ -1,0 +1,18 @@
+{
+  "auth": "Authentifizierung",
+  "backTo": "Zurück zu",
+  "couldNotLogin": "Konnte nicht einloggen",
+  "couldNotSignup": "Anmeldung nicht möglich",
+  "home": "Heim",
+  "emailAddress": "E-Mail-Addresse",
+  "invalidCredentials": "Ungültige Anmeldeinformationen!",
+  "login": "Einloggen",
+  "logout": "Abmelden",
+  "notFound": "Nicht gefunden",
+  "password": "Passwort",
+  "safety": "Sicherheit",
+  "signup": "Anmeldung",
+  "somethingWentWrong": "Etwas ist schief gelaufen. Bitte versuchen Sie es später noch einmal",
+  "submitting": "Einreichen...",
+  "userExists": "Ein Benutzer mit der angegebenen E-Mail existiert bereits!"
+}

@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-rational-order",
+    "stylelint-config-styled-components"
+  ],
+  "plugins": ["stylelint-no-unsupported-browser-features"],
+  "overrides": [
+    {
+      "files": ["**/styled.ts"],
+      "customSyntax": "@stylelint/postcss-css-in-js"
+    }
+  ],
+  "rules": {
+    "annotation-no-unknown": null,
+    "declaration-empty-line-before": [
+      "always",
+      {
+        "except": ["after-comment", "after-declaration", "first-nested"],
+        "ignore": ["after-declaration"]
+      }
+    ],
+    "function-no-unknown": null,
+    "no-empty-source": true,
+    "plugin/no-unsupported-browser-features": true
+  }
+}

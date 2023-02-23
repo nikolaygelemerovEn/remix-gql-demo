@@ -1,0 +1,8 @@
+coverage/
+dist/
+node_modules/
+out/
+yarn.lock
+.cach
+build
+app/styles

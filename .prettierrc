@@ -1,0 +1,25 @@
+{
+  "endOfLine": "auto",
+  "importOrder": [
+    "^react(.*)$",
+    "^@remix(.*)$",
+    "^[~/].*(?<!\\.css)$",
+    "\\.css$",
+    "^[./].*(?<!\\styled.ts)$",
+    "\\styled.ts$"
+  ],
+  "importOrderCaseInsensitive": true,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "printWidth": 100,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "*.css",
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ],
+  "trailingComma": "none"
+}

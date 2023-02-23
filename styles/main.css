@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  user-select: none;
+}
+
+:root {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* color */
+  --color-success: #58db3e;
+  --color-error: #e95d58;
+  --color-confirm: #49c2e7;
+  --color-selected: #e7d749;
+  --color-link: #d8c2f5;
+  --color-background: #cecece;
+  --color-text: #1f1f1f;
+
+  /* font-size */
+  --font-size-m: 1.6rem;
+  --font-size-xl: 2rem;
+  --font-size-xxl: 2.4rem;
+
+  /* font-weight */
+  --font-size-bold: 600;
+
+  /* offset */
+  --offset-m: 1rem;
+  --offset-xl: 1.4rem;
+
+  /* box-shadow */
+  --border-radius: 0.4rem;
+
+  /* box-shadow */
+  --box-shadow: rgb(0 0 0 / 35%) 0 0.5rem 1.5rem;
+
+  /* transition duration */
+  --transition-duration-normal: 300ms;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

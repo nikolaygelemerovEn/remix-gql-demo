@@ -1,0 +1,18 @@
+{
+  "auth": "Auth",
+  "backTo": "Back to",
+  "couldNotLogin": "Could not log in",
+  "couldNotSignup": "Could not sign up",
+  "home": "Home",
+  "emailAddress": "Email Address",
+  "invalidCredentials": "Invalid credentials!",
+  "login": "Login",
+  "logout": "Logout",
+  "notFound": "Not Found",
+  "password": "Password",
+  "safety": "Safety",
+  "signup": "Signup",
+  "somethingWentWrong": "Something went wrong. Please try again later",
+  "submitting": "Submitting...",
+  "userExists": "A user with the provided email already exists!"
+}
